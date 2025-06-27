@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Selam, ben PyrusDrago
 
-<!--
-**PyrusDrago/PyrusDrago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Genelde mobil cihaz üzerinden çalışan, yazılıma ve açık kaynak dünyasına ilgi duyan biriyim.  
+Cloudstream gibi projeleri kurcalamayı, düzenlemeyi ve kendi eklentilerimi oluşturmayı seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 İlgi Alanlarım
+- ☁️ Cloudstream & eklenti geliştirme
+- 📲 Mobil cihazlarda yazılım araçları kullanmak (Termux, Git, vs)
+- 🔍 Kodları incelemek, değiştirmek ve öğrenmek
+- 📂 Açık kaynak projeleri keşfetmek ve katkı sağlamak
+
+---
+
+## 🔧 Kullandığım Ortamlar
+- 📱 **Android cihaz** üzerinden çalışıyorum  
+- ⚙️ **Termux**, **AIDE**, mobil script editörleri  
+- 🧪 GitHub mobil sürüm + mobil tarayıcı ile proje yönetimi
+
+---
+
+## 📫 Bağlantı
+🔗 GitHub Profilim: [github.com/PyrusDrago](https://github.com/PyrusDrago)
+
+---
+
+> 💬 "Her şey bir komutla başlar. Bazen sadece `git clone` yazman yeterlidir."
